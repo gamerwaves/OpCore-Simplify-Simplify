@@ -1,6 +1,8 @@
 # OpCore-Simplify-Simplify
 A tool designed to simplify a tool designed to simplify the creation of OpenCore EFI
 
+**Original:** https://github.com/lzhoang2801/OpCore-Simplify
+
 # Usage
 Run PowerShell as Admin and then run:
 
